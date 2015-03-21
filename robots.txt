@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://securedmh.github.io/sitemap.xml 
