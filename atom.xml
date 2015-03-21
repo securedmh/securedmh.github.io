@@ -4,7 +4,7 @@
   <title><![CDATA[Octopressing]]></title>
   <link href="http://securedmh.github.io/atom.xml" rel="self"/>
   <link href="http://securedmh.github.io/"/>
-  <updated>2015-03-21T06:54:32-04:00</updated>
+  <updated>2015-03-21T07:04:19-04:00</updated>
   <id>http://securedmh.github.io/</id>
   <author>
     <name><![CDATA[Dehickensian]]></name>
@@ -14,13 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First Blog Post]]></title>
+    <title type="html"><![CDATA[Firewall Blog Post]]></title>
     <link href="http://securedmh.github.io/blog/2015/03/21/first-blog-post/"/>
     <updated>2015-03-21T05:29:59-04:00</updated>
     <id>http://securedmh.github.io/blog/2015/03/21/first-blog-post</id>
-    <content type="html"><![CDATA[<h1>First post</h1>
-
-<p>Test text</p>
+    <content type="html"><![CDATA[<p>Firewall details here.</p>
 ]]></content>
   </entry>
   
